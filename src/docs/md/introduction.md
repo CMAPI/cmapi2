@@ -13,13 +13,6 @@ CMAPI v2 aslo aims to provide actual language implmentations of these geospatial
 
 The current supported languages are Java and JavaScript.  
 
-## Build Instructions
-
-1. Download and install Node JS 
-2. Open a Commnad Line Interface (CLI) from CMAPI2 root dreictory
-3. Type: node generate.js
-4. Output of the Dcouemtnation, Java, and JavaScript outputs will be in the "dist" folder at the root of the CMAPI2 project.  the dist folder will be cleared and overwritten each time you run the build.
-5. To compile the Java source code into a jar file run: node compile.js
 
 -------------------------------------------
 See the [CMAPI Github][1] space for source code 
@@ -28,3 +21,4 @@ Visit [cmapi.org][2] for more information about previous versions of CMAPI
 
   [1]: https://github.com/cmapi/cmapi2
   [2]: http://cmapi.org
+
